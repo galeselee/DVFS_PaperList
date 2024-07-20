@@ -1,1 +1,4 @@
 # DVFS_PaperList
+|                                                                 Paper                                                                |                                   Keywords                                  |   Institute (first)   |           Publication           |                        Others                       |
+| :----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------: | :-------------------: | :-----------------------------: | :-------------------------------------------------: |
+|  [A survey and measurement study of GPU DVFS on energy conservation](https://www.sciencedirect.com/science/article/pii/S2352864816300736)  | DVFS survey | HKBU | Digital Communications and Networks |              |

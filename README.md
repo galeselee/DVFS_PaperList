@@ -5,4 +5,4 @@
 | [Characterizing Power Management Opportunities for LLMs in the Cloud](https://dl.acm.org/doi/10.1145/3620666.3651329) | LLM | Microsoft Azure | ASPLOS 2024| |
 | [Predict; Don’t React for Enabling Efficient Fine-Grain DVFS in GPUs](https://arxiv.org/abs/2205.00121) | Fine Grain DVFS | MicroSoft | ASPLOS 2024 | |
 | [Roofline-aware DVFS for GPUs](https://dl.acm.org/doi/10.1145/2553062.2553067) | roofline DVFS | Eindhoven University of Technology | ADAPT 2014 | |
-| [Effects of Dynamic Voltage and Frequency Scaling on a K20 GPU]() |  | Marquette University | ICPP 2013 | |
+| [Effects of Dynamic Voltage and Frequency Scaling on a K20 GPU](https://ieeexplore.ieee.org/document/6687422) |  | Marquette University | ICPP 2013 |Key Points: 1. MM benchmark shows performance is linearly proportional to the GPU frequency when using a high memory speed  2. CPU DVFS impacts the CPU and other system components|

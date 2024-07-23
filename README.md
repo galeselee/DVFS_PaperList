@@ -10,4 +10,5 @@
 | [Zeus: Understanding and Optimizing GPU Energy Consumption of DNN Training](https://www.usenix.org/conference/nsdi23/presentation/you) | DNN training | University of Michigan | NSDI 2023 | 
 | [The Design, Implementation and Evaluation of a Compiler Algorithm for GPU energy Reduction](https://people.cs.rutgers.edu/~uli/PLDI03.pdf) | Programming language; CPU energy |  Rutgers, The State University of New Jersey | PLDI 2003 |
 | [A Dynamic Compilation Framework for Controlling Microprocessor Energy and Performance](https://mrmgroup.cs.princeton.edu/papers/jqwu-micro2005.pdf) | Compiler | Princeton University | MICRO 2005 | 
-
+｜ [Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance](https://dl.acm.org/doi/pdf/10.1145/3627703.3629584) | Performance Assurane | PCL | Eurosys 2024 | |
+｜ [Energy-Aware Non-Preemptive Task Scheduling With Deadline Constraint in DVFS-Enabled Heterogeneous Clusters](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9790352) | Task scheduling; Deadline Constraint | HKBU | TPDS 2022 | |

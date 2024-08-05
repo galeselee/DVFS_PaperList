@@ -12,3 +12,6 @@
 | [A Dynamic Compilation Framework for Controlling Microprocessor Energy and Performance](https://mrmgroup.cs.princeton.edu/papers/jqwu-micro2005.pdf) | Compiler | Princeton University | MICRO 2005 | 
 | [Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance](https://dl.acm.org/doi/pdf/10.1145/3627703.3629584) | Performance Assurane | PCL | Eurosys 2024 | |
 | [Energy-Aware Non-Preemptive Task Scheduling With Deadline Constraint in DVFS-Enabled Heterogeneous Clusters](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9790352) | Task scheduling; Deadline Constraint | HKBU | TPDS 2022 | |
+| [EnvPipe: Performance-preserving DNN Training Framework for Saving Energy](https://www.usenix.org/conference/atc23/presentation/cho) | Pipeline parallelism; Training | KAIST | ATC 2023|
+| [Power-aware Deep Learning Model Serving with μ-Serve](https://www.usenix.org/conference/atc24/presentation/qiu) | LLM Serving | UIUC | ATC 2024 |
+| [DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency](https://arxiv.org/abs/2408.00741) | LLM Serving Cluster | UIUC | Arxiv | 

@@ -16,3 +16,4 @@
 | [Power-aware Deep Learning Model Serving with μ-Serve](https://www.usenix.org/conference/atc24/presentation/qiu) | LLM Serving | UIUC | ATC 2024 |
 | [DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency](https://arxiv.org/abs/2408.00741) | LLM Serving Cluster | UIUC | Arxiv | 
 | [Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance](https://dl.acm.org/doi/pdf/10.1145/3627703.3629584) | Energy Efficiency | HKBU | Eurosys 2024 |
+| [GPGPU performance estimation with core and memory frequency scaling](https://www.researchgate.net/profile/Qiang-Wang-73/publication/320362846_GPGPU_Power_Estimation_with_Core_and_Memory_Frequency_Scaling/links/5a54b7c3a6fdcc51a618074b/GPGPU-Power-Estimation-with-Core-and-Memory-Frequency-Scaling.pdf) | estimation performance with frequency | HKBU | ACM SIGMETRICS Performance Evaluation Review |

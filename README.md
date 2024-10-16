@@ -10,12 +10,11 @@
 | [Zeus: Understanding and Optimizing GPU Energy Consumption of DNN Training](https://www.usenix.org/conference/nsdi23/presentation/you) | DNN training | University of Michigan | NSDI 2023 | 
 | [The Design, Implementation and Evaluation of a Compiler Algorithm for GPU energy Reduction](https://people.cs.rutgers.edu/~uli/PLDI03.pdf) | Programming language; CPU energy |  Rutgers, The State University of New Jersey | PLDI 2003 |
 | [A Dynamic Compilation Framework for Controlling Microprocessor Energy and Performance](https://mrmgroup.cs.princeton.edu/papers/jqwu-micro2005.pdf) | Compiler | Princeton University | MICRO 2005 | 
-| [Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance](https://dl.acm.org/doi/pdf/10.1145/3627703.3629584) | Performance Assurane | PCL | Eurosys 2024 | |
 | [Energy-Aware Non-Preemptive Task Scheduling With Deadline Constraint in DVFS-Enabled Heterogeneous Clusters](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9790352) | Task scheduling; Deadline Constraint | HKBU | TPDS 2022 | |
 | [EnvPipe: Performance-preserving DNN Training Framework for Saving Energy](https://www.usenix.org/conference/atc23/presentation/cho) | Pipeline parallelism; Training | KAIST | ATC 2023|
 | [Power-aware Deep Learning Model Serving with μ-Serve](https://www.usenix.org/conference/atc24/presentation/qiu) | LLM Serving | UIUC | ATC 2024 |
 | [DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency](https://arxiv.org/abs/2408.00741) | LLM Serving Cluster | UIUC | Arxiv | 
-| [Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance](https://dl.acm.org/doi/pdf/10.1145/3627703.3629584) | Energy Efficiency | HKBU | Eurosys 2024 |
+| [Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance](https://dl.acm.org/doi/pdf/10.1145/3627703.3629584) | Energy Efficiency | PCL,HKBU | Eurosys 2024 |
 | [GPGPU Power Estimation with Core and Memory Frequency Scaling](https://www.researchgate.net/profile/Qiang-Wang-73/publication/320362846_GPGPU_Power_Estimation_with_Core_and_Memory_Frequency_Scaling/links/5a54b7c3a6fdcc51a618074b/GPGPU-Power-Estimation-with-Core-and-Memory-Frequency-Scaling.pdf) | estimate power with frequency | HKBU | ACM SIGMETRICS Performance Evaluation Review |
 | [GPGPU performance estimation with core](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9124659) | estimate performance with frequency | HKBU | TPDS 2020 |
 

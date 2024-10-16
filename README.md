@@ -15,3 +15,4 @@
 | [EnvPipe: Performance-preserving DNN Training Framework for Saving Energy](https://www.usenix.org/conference/atc23/presentation/cho) | Pipeline parallelism; Training | KAIST | ATC 2023|
 | [Power-aware Deep Learning Model Serving with μ-Serve](https://www.usenix.org/conference/atc24/presentation/qiu) | LLM Serving | UIUC | ATC 2024 |
 | [DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency](https://arxiv.org/abs/2408.00741) | LLM Serving Cluster | UIUC | Arxiv | 
+| [Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance](https://dl.acm.org/doi/pdf/10.1145/3627703.3629584) | Energy Efficiency | HKBU | Eurosys 2024 |

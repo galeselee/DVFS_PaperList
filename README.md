@@ -17,6 +17,7 @@
 | [Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance](https://dl.acm.org/doi/pdf/10.1145/3627703.3629584) | Energy Efficiency | PCL,HKBU | Eurosys 2024 |
 | [GPGPU Power Estimation with Core and Memory Frequency Scaling](https://www.researchgate.net/profile/Qiang-Wang-73/publication/320362846_GPGPU_Power_Estimation_with_Core_and_Memory_Frequency_Scaling/links/5a54b7c3a6fdcc51a618074b/GPGPU-Power-Estimation-with-Core-and-Memory-Frequency-Scaling.pdf) | estimate power with frequency | HKBU | ACM SIGMETRICS Performance Evaluation Review |
 | [GPGPU performance estimation with core](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9124659) | estimate performance with frequency | HKBU | TPDS 2020 |
+| [EVeREST: An Effective and Versatile Runtime Energy Saving Tool for GPUs] |  | ppopp 2025 |
 
 
 
